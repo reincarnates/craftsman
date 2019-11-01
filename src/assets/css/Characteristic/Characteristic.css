@@ -1,0 +1,191 @@
+.corporate-resume-wrapper{
+  width: 100%;
+  height: 710px;
+  background: url(../../images/characteristic_bg.jpg) no-repeat;
+  background-size: cover;
+}
+
+.corporate-resume{
+  width: 1260px;
+  margin: 0 auto;
+  padding-top: 154px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.corporate-resume-left{
+  width: 42px;
+  height: 163px;
+  border: 1px solid #af804d;
+  margin-top: 119px;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.corporate-resume-left-word{
+  width: 1em;
+  line-height: 1;
+  color: #2d2d2d;
+  font-size: 20px;
+  font-family: '宋体';
+  margin-top: 12px;
+}
+
+.corporate-resume-center{
+  width: 557px;
+  line-height: 37px;
+  color: #000;
+  font-size: 14px;
+  margin-left: 56px;
+  font-family: '宋体';
+  letter-spacing: 4px;
+}
+
+.corporate-resume-center p{
+  text-indent: 42px;
+}
+
+.corporate-resume-right{
+  width: 533px;
+  height: 403px;
+  margin-left: 73px;
+}
+
+.corporate-resume-right img{
+  width: 100%;
+  height: 100%;
+}
+
+.corporate-best-wrapper{
+  width: 100%;
+  background: url(../../images/best_bg.jpg) no-repeat;
+  background-size: cover;
+  padding-top: 40px;
+  box-sizing: border-box;
+}
+
+.corporate-best{
+  width: 1260px;
+  margin: 48px auto 0;
+}
+
+.corporate-best-title{
+  width: 100%;
+  height: 77px;
+  background: url(../../images/best_title_bg.png) no-repeat;
+  background-size: cover;
+  color: #474747;
+  font-size: 30px;
+}
+
+.corporate-best-left{
+  width: 609px;
+  height: 481px;
+}
+
+.corporate-best-left img{
+  width: 100%;
+  height: 100%;
+}
+
+.corporate-best-right{
+  width: 651px;
+  height: 481px;
+  flex-wrap: wrap;
+}
+
+.corporate-best-item-img{
+  width: 50%;
+  height: 241px;
+}
+
+.corporate-best-item-img img{
+  width: 100%;
+  height: 100%;
+}
+
+.corporate-best-goods{
+  width: 1260px;
+  margin: 48px auto 0;
+  flex-wrap: wrap;
+}
+
+.corporate-best-goods-item-wrapper{
+  margin-right: 45px;
+}
+
+.corporate-best-goods-item-wrapper a{
+  text-decoration: none;
+}
+
+.corporate-best-goods-item-wrapper:nth-child(4n+4){
+  margin-right: 0;
+}
+
+.corporate-best-goods-item{
+  width: 281px;
+  height: 389px;
+  background: url(../../images/corporate_goods_bg.png) no-repeat;
+  background-size: cover;
+}
+
+.corporate-best-goods-item-word{
+  width: 100%;
+  height: 91px;
+}
+
+.corporate-best-goods-item-word-name{
+  color: #474747;
+  font-size: 16px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.corporate-best-goods-item-word-price{
+  color: #ba1b27;
+  font-size: 14px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.corporate-head-wrapper{
+  width: 100%;
+  height: 74px;
+  background: url(../../images/corporate_head_bg.jpg) no-repeat;
+  background-size: cover;
+}
+
+.corporate-head{
+  width: 1260px;
+  height: 74px;
+  margin: 0 auto;
+}
+
+.corporate-head-left{
+  width: 279px;
+  height: 100%;
+}
+
+.corporate-head-nav-wrapper{
+  width: 839px;
+  height: 100%;
+}
+
+.corporate-head-nav{
+  width: 543px;
+  height: 100%;
+}
+
+.corporate-head-nav-item{
+  width: 60px;
+  height: 100%;
+  color: #313131;
+  font-size: 16px;
+  margin-right: 60px;
+  cursor: pointer;
+}
+
+.corporate-head-right{
+  width: 142px;
+  height: 100%;
+}
